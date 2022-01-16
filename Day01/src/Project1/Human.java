@@ -9,8 +9,15 @@ public class Human {
 	String eyeColor;
 	
 	// construct method
-	public Human() {
-		
+	
+	
+	public Human(String name, int age, int height, int weight, String eyeColor) {
+		super();
+		this.name = name;
+		this.age = age;
+		this.height = height;
+		this.weight = weight;
+		this.eyeColor = eyeColor;
 	}
 	
 	public void speak() {

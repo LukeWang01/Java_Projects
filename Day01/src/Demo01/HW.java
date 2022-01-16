@@ -1,4 +1,5 @@
 package Demo01;
+import Demo02.MyUtils;
 
 public class HW {
 	
@@ -75,6 +76,17 @@ public class HW {
 		
 		System.out.println(monthString);
 		
+		MyUtils.lukebadbad();
+		
+		task1();
+		
+	}
+	
+	public static void task1() {
+		System.out.println("task1 called");
+	
 	}
 
 }
+
+
