@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52f02b06-9235-40dd-945d-096d53cf91f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Day01/src/com/luke/HashTasks/HashSetTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01/src/com/luke/Map/HashMapTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01/src/com/luke/collectionApp/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock_Data_Process.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aggregators/Aggregator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aggregators/MaxAggregator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aggregators/MeanAggregator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aggregators/MinAggregator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/StockFileApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fileprocessors/StockFileData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fileprocessors/StockFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/table.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day01/src/com/luke/collectionApp/CollectionTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day01/src/com/luke/collectionApp/CollectionTask.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="23ngMFhkBPdxf6nAjmo23VLgVau" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52f02b06-9235-40dd-945d-096d53cf91f1" name="Changes" comment="" />
+      <created>1642375218166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642375218166</updated>
+      <workItem from="1642375220058" duration="4041000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

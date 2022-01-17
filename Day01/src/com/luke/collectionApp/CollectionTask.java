@@ -2,6 +2,7 @@ package com.luke.collectionApp;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
+import java.util.List;
 
 public class CollectionTask {
 
@@ -57,7 +58,43 @@ public class CollectionTask {
             System.out.println(value);
         }
 
+        LinkedList<Car> myCars = new LinkedList<>();
+        //ArrayList and LinkedList work in the same way, but have some pros and cons
+        //ArrayList<Car> myCars = new ArrayList<>();
+        Car mycar1 = new Car("Mazda",10000,"Luke");
+        myCars.add(mycar1);
+        myCars.add(new Car("BWM", 10000,"Luke"));
+        System.out.println("--------------");
 
+        for (Car cars : myCars) {
+            System.out.println(cars); //if not toString added, it should be Car@7878938
+            // System.out.println(cars.toString());
+            // System.out.println("--------------");
+            System.out.println(cars.getName());
+            //System.out.println(cars.getPrice());
+        }
+
+        System.out.println("-------split--------");
+
+        printAllList(animals);
+        printAllList(myCars);
+
+    }
+
+
+
+
+    // List type with the method exits in both LinkedList and ArrayList
+    //
+    public static void printAllList(List someList){
+//        for (int i = 0; i < someList.size(); i++) {
+//            System.out.println(someList.get(i));
+//        }
+        // can be replaced by below:
+
+        for (Object obj : someList){
+            System.out.println(obj);
+        }
     }
 
 }
