@@ -5,25 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52f02b06-9235-40dd-945d-096d53cf91f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Day01/src/com/luke/HashTasks/HashSetTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day01/src/com/luke/Map/HashMapTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day01/src/com/luke/collectionApp/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock_Data_Process.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aggregators/Aggregator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aggregators/MaxAggregator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aggregators/MeanAggregator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aggregators/MinAggregator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/StockFileApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fileprocessors/StockFileData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fileprocessors/StockFileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/table.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day01/src/com/luke/collectionApp/CollectionTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day01/src/com/luke/collectionApp/CollectionTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01/src/com/luke/generics/GenericsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aggregators/AggregatorProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/AggregatorApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day01/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aggregators/Aggregator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aggregators/Aggregator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aggregators/MaxAggregator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aggregators/MaxAggregator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aggregators/MeanAggregator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aggregators/MeanAggregator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aggregators/MinAggregator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aggregators/MinAggregator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="23ngMFhkBPdxf6nAjmo23VLgVau" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -64,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1642375218166</updated>
       <workItem from="1642375220058" duration="4041000" />
+      <workItem from="1642477906681" duration="1152000" />
     </task>
     <servers />
   </component>
