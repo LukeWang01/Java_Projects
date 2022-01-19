@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52f02b06-9235-40dd-945d-096d53cf91f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Day01/src/com/luke/generics/GenericsApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aggregators/AggregatorProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/AggregatorApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day01/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aggregators/Aggregator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aggregators/Aggregator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aggregators/MaxAggregator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aggregators/MaxAggregator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aggregators/MeanAggregator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aggregators/MeanAggregator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aggregators/MinAggregator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aggregators/MinAggregator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/client/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aggregators/AggregatorProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aggregators/AggregatorProcessor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +50,8 @@
       <option name="presentableId" value="Default" />
       <updated>1642375218166</updated>
       <workItem from="1642375220058" duration="4041000" />
-      <workItem from="1642477906681" duration="1152000" />
+      <workItem from="1642477906681" duration="1219000" />
+      <workItem from="1642565079473" duration="1084000" />
     </task>
     <servers />
   </component>
