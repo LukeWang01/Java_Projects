@@ -1,4 +1,4 @@
-package Project1;
+package Demo03;
 
 public class Human {
 	

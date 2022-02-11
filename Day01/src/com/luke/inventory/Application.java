@@ -1,20 +1,30 @@
 package com.luke.inventory;
 
 public class Application {
-    InventoryManager manager = new InventoryManager();
 
-    Thread inventoryTask = new Thread(new Runnable() {
-        @Override
-        public void run() {
-            manager.populateSoldProducts();
-        }
-    });
+    public static void main(String[] args) throws InterruptedException {
 
-    Thread displayTask = new Thread(new Runnable() {
-        @Override
-        public void run() {
-            manager.populateSoldProducts();
-        }
-    });
+
+        InventoryManager manager = new InventoryManager();
+
+        Thread inventoryTask = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                manager.populateSoldProducts();
+            }
+        });
+
+        Thread displayTask = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                manager.displaySoldProducts();
+            }
+        });
+        inventoryTask.start();
+        Thread.sleep(200);
+        //inventoryTask.join();  // control the thread
+        displayTask.start();
+
+    }
 
 }
